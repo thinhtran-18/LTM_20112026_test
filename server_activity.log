@@ -1,0 +1,131 @@
+[2026-11-20 12:37:13] [127.0.0.1:61572] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 12:37:13] [127.0.0.1:61572] [User: sinhvien1] [Action: LOGIN_FAILED] Đăng nhập thất bại do sai tài khoản hoặc mật khẩu.
+[2026-11-20 12:37:13] [127.0.0.1:61572] [User: Khách] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 12:37:13] [127.0.0.1:61573] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 12:37:13] [127.0.0.1:50360] [User: admin] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 50360
+[2026-11-20 12:37:13] [127.0.0.1:61573] [User: admin] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: ADMIN
+[2026-11-20 12:37:13] [127.0.0.1:61573] [User: admin] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 12:37:13] [127.0.0.1:61574] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 12:37:13] [127.0.0.1:50361] [User: sinhvien1] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 50361
+[2026-11-20 12:37:13] [127.0.0.1:61574] [User: sinhvien1] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 12:37:13] [127.0.0.1:61574] [User: sinhvien1] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 12:37:13] [127.0.0.1:61575] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 12:37:13] [127.0.0.1:50362] [User: sinhvien] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 50362
+[2026-11-20 12:37:13] [127.0.0.1:61575] [User: sinhvien] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 12:37:13] [127.0.0.1:61575] [User: sinhvien] [Action: BORROW_BOOK] Mượn thành công sách: S001
+[2026-11-20 12:37:13] [127.0.0.1:61575] [User: sinhvien] [Action: RETURN_BOOK] Trả thành công sách: S001
+[2026-11-20 12:37:13] [127.0.0.1:61575] [User: sinhvien] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 12:37:13] [127.0.0.1:61576] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 12:37:13] [127.0.0.1:50363] [User: sinhvien2] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 50363
+[2026-11-20 12:37:13] [127.0.0.1:61576] [User: sinhvien2] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 12:37:13] [127.0.0.1:61577] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 2)
+[2026-11-20 12:37:13] [127.0.0.1:50364] [User: admin] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 50364
+[2026-11-20 12:37:13] [127.0.0.1:61577] [User: admin] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: ADMIN
+[2026-11-20 12:37:13] [127.0.0.1:61577] [User: admin] [Action: ADD_BOOK] Thêm sách mới: S998
+[2026-11-20 12:37:14] [127.0.0.1:61577] [User: admin] [Action: DELETE_BOOK] Xóa sách: S998
+[2026-11-20 12:37:14] [127.0.0.1:61577] [User: admin] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 1)
+[2026-11-20 12:37:14] [127.0.0.1:61576] [User: sinhvien2] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 12:37:14] [127.0.0.1:61578] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 12:37:14] [127.0.0.1:50365] [User: admin] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 50365
+[2026-11-20 12:37:14] [127.0.0.1:61578] [User: admin] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: ADMIN
+[2026-11-20 12:37:14] [127.0.0.1:61578] [User: admin] [Action: ADD_BOOK] Thêm sách mới: S_RARE
+[2026-11-20 12:37:14] [127.0.0.1:61578] [User: admin] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 12:37:14] [127.0.0.1:61579] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 12:37:14] [127.0.0.1:61580] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 2)
+[2026-11-20 12:37:14] [127.0.0.1:50366] [User: sinhvien1] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 50366
+[2026-11-20 12:37:14] [127.0.0.1:50367] [User: sinhvien2] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 50367
+[2026-11-20 12:37:14] [127.0.0.1:61579] [User: sinhvien1] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 12:37:14] [127.0.0.1:61580] [User: sinhvien2] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 12:37:15] [127.0.0.1:61580] [User: sinhvien2] [Action: BORROW_BOOK] Mượn thành công sách: S_RARE
+[2026-11-20 12:37:15] [127.0.0.1:61580] [User: sinhvien2] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 1)
+[2026-11-20 12:37:15] [127.0.0.1:61579] [User: sinhvien1] [Action: BORROW_FAILED] Mượn S_RARE thất bại: Sách 'S_RARE' hiện đã hết số lượng trong kho, không thể mượn!
+[2026-11-20 12:37:15] [127.0.0.1:61579] [User: sinhvien1] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 12:37:15] [127.0.0.1:61581] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 12:37:15] [127.0.0.1:62088] [User: admin] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 62088
+[2026-11-20 12:37:15] [127.0.0.1:61581] [User: admin] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: ADMIN
+[2026-11-20 12:37:15] [127.0.0.1:61581] [User: admin] [Action: DELETE_BOOK] Xóa sách: S_RARE
+[2026-11-20 12:37:15] [127.0.0.1:61581] [User: admin] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 12:38:17] [127.0.0.1:61585] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 12:38:18] [127.0.0.1:62474] [User: sinhvien] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 62474
+[2026-11-20 12:38:18] [127.0.0.1:61585] [User: sinhvien] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 12:38:18] [127.0.0.1:61585] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:00:39] [127.0.0.1:60447] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 13:00:39] [127.0.0.1:63010] [User: sinhvien] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 63010
+[2026-11-20 13:00:39] [127.0.0.1:60447] [User: sinhvien] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 13:00:39] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:01] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:02] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:10] [127.0.0.1:60447] [User: sinhvien] [Action: RETURN_FAILED] Trả S005 thất bại: Bạn hiện không có phiếu mượn nào đang mở đối với cuốn sách 'S005'!
+[2026-11-20 13:01:18] [127.0.0.1:60447] [User: sinhvien] [Action: BORROW_BOOK] Mượn thành công sách: S005
+[2026-11-20 13:01:18] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:20] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:27] [127.0.0.1:60447] [User: sinhvien] [Action: BORROW_BOOK] Mượn thành công sách: S001
+[2026-11-20 13:01:27] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:28] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:32] [127.0.0.1:60447] [User: sinhvien] [Action: RETURN_BOOK] Trả thành công sách: S001
+[2026-11-20 13:01:32] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:33] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:36] [127.0.0.1:60447] [User: sinhvien] [Action: BORROW_BOOK] Mượn thành công sách: S001
+[2026-11-20 13:01:36] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:37] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:01:53] [127.0.0.1:60447] [User: sinhvien] [Action: SEARCH] Tìm kiếm từ khóa: 'S001'
+[2026-11-20 13:01:55] [127.0.0.1:60447] [User: sinhvien] [Action: SEARCH] Tìm kiếm từ khóa: 'S001'
+[2026-11-20 13:01:58] [127.0.0.1:60447] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:02:07] [127.0.0.1:60447] [User: sinhvien] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 13:02:45] [127.0.0.1:53918] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 13:02:45] [127.0.0.1:58424] [User: admin] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 58424
+[2026-11-20 13:02:45] [127.0.0.1:53918] [User: admin] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: ADMIN
+[2026-11-20 13:02:46] [127.0.0.1:53918] [User: admin] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:02:53] [127.0.0.1:53918] [User: admin] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 13:03:24] [127.0.0.1:53923] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 13:03:24] [127.0.0.1:57785] [User: sinhvien1] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 57785
+[2026-11-20 13:03:24] [127.0.0.1:53923] [User: sinhvien1] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 13:03:24] [127.0.0.1:53923] [User: sinhvien1] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:03:30] [127.0.0.1:53923] [User: sinhvien1] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 13:04:35] [127.0.0.1:53933] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 13:04:35] [127.0.0.1:49951] [User: sinhvien] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 49951
+[2026-11-20 13:04:35] [127.0.0.1:53933] [User: sinhvien] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 13:04:36] [127.0.0.1:53933] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 13:04:38] [127.0.0.1:53933] [User: sinhvien] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 16:03:51] [127.0.0.1:65348] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 16:03:51] [127.0.0.1:65348] [User: admin] [Action: LOGIN_FAILED] Đăng nhập thất bại do sai tài khoản hoặc mật khẩu.
+[2026-11-20 16:03:51] [127.0.0.1:65348] [User: Khách] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 16:03:58] [127.0.0.1:65349] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 16:03:58] [127.0.0.1:64607] [User: admin] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 64607
+[2026-11-20 16:03:58] [127.0.0.1:65349] [User: admin] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: ADMIN
+[2026-11-20 16:03:58] [127.0.0.1:65349] [User: admin] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 16:05:45] [127.0.0.1:65349] [User: admin] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 21:35:53] [127.0.0.1:56435] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 21:35:53] [127.0.0.1:59484] [User: sinhvien] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 59484
+[2026-11-20 21:35:53] [127.0.0.1:56435] [User: sinhvien] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 21:35:53] [127.0.0.1:56435] [User: sinhvien] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:36:07] [127.0.0.1:56435] [User: sinhvien] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 21:36:11] [127.0.0.1:56436] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 21:36:11] [127.0.0.1:59486] [User: admin] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 59486
+[2026-11-20 21:36:11] [127.0.0.1:56436] [User: admin] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: ADMIN
+[2026-11-20 21:36:11] [127.0.0.1:56436] [User: admin] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:36:25] [127.0.0.1:56436] [User: admin] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 21:36:27] [127.0.0.1:56437] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 21:36:27] [127.0.0.1:59487] [User: sinhvien1] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 59487
+[2026-11-20 21:36:27] [127.0.0.1:56437] [User: sinhvien1] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 21:36:27] [127.0.0.1:56437] [User: sinhvien1] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:36:35] [127.0.0.1:56440] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 2)
+[2026-11-20 21:36:35] [127.0.0.1:59489] [User: sinhvien2] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 59489
+[2026-11-20 21:36:35] [127.0.0.1:56440] [User: sinhvien2] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 21:36:35] [127.0.0.1:56437] [User: sinhvien1] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:36:36] [127.0.0.1:56440] [User: sinhvien2] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:38:02] [127.0.0.1:56437] [User: sinhvien1] [Action: BORROW_BOOK] Mượn thành công sách: S001
+[2026-11-20 21:38:02] [127.0.0.1:56440] [User: sinhvien2] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:38:02] [127.0.0.1:56437] [User: sinhvien1] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:38:04] [127.0.0.1:56437] [User: sinhvien1] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:39:09] [127.0.0.1:56437] [User: sinhvien1] [Action: BORROW_BOOK] Mượn thành công sách: S001
+[2026-11-20 21:39:09] [127.0.0.1:56440] [User: sinhvien2] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:39:09] [127.0.0.1:56437] [User: sinhvien1] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:41:24] [127.0.0.1:56440] [User: sinhvien2] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 1)
+[2026-11-20 21:41:26] [127.0.0.1:56437] [User: sinhvien1] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:41:27] [127.0.0.1:56437] [User: sinhvien1] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
+[2026-11-20 21:44:10] [127.0.0.1:61453] [User: Guest] [Action: CONNECT] Client mới kết nối! (Tổng Client online: 1)
+[2026-11-20 21:44:10] [127.0.0.1:56742] [User: sinhvien1] [Action: UDP_REGISTER] Đăng ký nhận thông báo UDP tại cổng 56742
+[2026-11-20 21:44:10] [127.0.0.1:61453] [User: sinhvien1] [Action: LOGIN_SUCCESS] Đăng nhập thành công với vai trò: USER
+[2026-11-20 21:44:11] [127.0.0.1:61453] [User: sinhvien1] [Action: GET_ALL] Lấy toàn bộ 5 cuốn sách.
+[2026-11-20 21:44:30] [127.0.0.1:61453] [User: sinhvien1] [Action: DISCONNECT] Client ngắt kết nối. (Số Client online còn lại: 0)
